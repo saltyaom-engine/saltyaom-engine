@@ -1,4 +1,7 @@
-### Hi there 👋
+[@SaltyAom](https://github.com/saltyAom)'s account for running automation.
+
+<img src="https://user-images.githubusercontent.com/97719904/163814326-b6e979a8-d626-4be3-9878-8843ba631fc4.png" alt="Tenshi da" width=324 />
+
 
 <!--
 **saltyaom-engine/saltyaom-engine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
